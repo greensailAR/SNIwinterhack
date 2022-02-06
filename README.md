@@ -1,4 +1,6 @@
-# Green Sails—Arrrgmented Reality for the SNI Winter Hack 
+# Green Sails—Arrrgmented Reality for Nature
+
+## An SNI Winter Hack Project
 
 ## Project Overview
 

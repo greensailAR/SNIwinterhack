@@ -63,7 +63,5 @@ Credits:
 - https://www.space4good.com/
 - https://ceven.tech/
 
-![Space4Good Logo](img/dark_logo_transparent.jpg "Space4Good") ![CEVEN Logo](img/CEVEN_Logo_NEG_RGB.png "CEVEN")
-
 
 ------

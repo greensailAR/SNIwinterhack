@@ -4,22 +4,25 @@
 
 | Project name        | Green Sails—Arrrgmented Reality                                    |
 | :------------------ | ------------------------------------------------------------ |
-| Product demo        | [TBD]                                |
-| Demo video          | [TBD]                  |
-| Blog post          | [TBD]                  |
+| Product demo        | [Product Demo](https://www.figma.com/proto/i4BTI7grpM6qtRG0x7snvL/Green-Sail---Space4Good?node-id=23%3A239&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A22&show-proto-sidebar=1)]                                |
+| Demo video          | [Demo Video](https://www.youtube.com/watch?v=tK3G8Lu7N3g)]                  |
+| Blog post          | [TBA]                  |
 | Dissemination level | Public                                                       |
 | Version             | 0.1                                                          |
 | Software license    | MIT License                                                  |
 | Status              | Work in progress                                              |
 
-![Screenshot Map](insert picture)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tK3G8Lu7N3g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Short Description
 
-Data collected for De Ceuvel, augmented data reality.
+[img](img/slide1.jpg)
+[img](img/slide2.jpg)
+[img](img/slide3.jpg)
+[img](img/slide4.jpg)
+[img](img/slide5.jpg)
 
-1. Point 1
-2. Point 2
+
 
 ## Team 
 

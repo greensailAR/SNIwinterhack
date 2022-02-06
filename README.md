@@ -16,12 +16,11 @@
 
 ## Short Description
 
-[img](img/slide1.jpg)
-[img](img/slide2.jpg)
-[img](img/slide3.jpg)
-[img](img/slide4.jpg)
-[img](img/slide5.jpg)
-
+![Alt text](img/slide1.jpg "Slide 1")
+![Alt text](img/slide2.jpg "Slide 2")
+![Alt text](img/slide3.jpg "Slide 3")
+![Alt text](img/slide4.jpg "Slide 4")
+![Alt text](img/slide5.jpg "Slide 5")
 
 
 ## Team 

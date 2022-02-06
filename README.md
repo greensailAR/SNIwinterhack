@@ -18,11 +18,11 @@
 
 ## Short Description
 
-![Alt text](img/slide1.jpg "Slide 1")
-![Alt text](img/slide2.jpg "Slide 2")
-![Alt text](img/slide3.jpg "Slide 3")
-![Alt text](img/slide4.jpg "Slide 4")
-![Alt text](img/slide5.jpg "Slide 5")
+![Presentation Slide 1](img/slide1.jpg "Slide 1")
+![Presentation Slide 2](img/slide2.jpg "Slide 2")
+![Presentation Slide 3](img/slide3.jpg "Slide 3")
+![Presentation Slide 4](img/slide4.jpg "Slide 4")
+![Presentation Slide 5](img/slide5.jpg "Slide 5")
 
 
 ## Team 
@@ -32,30 +32,38 @@
 - Jessica
 - Lisa
 - Robert
-- Yannick
+- Yannick (https://github.com/IneffableKoD)
 
-## Story
 
-Data collection pirates! 
+## An End-To-End Demo
 
-## Design / Development
-
-- Ocean Marketplace fork
-- DAO
+- [DAO](https://client.aragon.org/#/greensail/)
+- [First data collection request](https://github.com/greensailAR/SNIwinterhack/issues/2)
+- [Corresponding bounty](https://gitcoin.co/issue/greensailar/sniwinterhack/2/100027600)
+- [Corresponding DAO vote](https://client.aragon.org/#/greensail/0x71f8045034f0f4a57f46814df7983b4b27339ce6/vote/2/)
 
 ## Whats Next?
 
-- Doubloons!
-- DAO
-- Launch token
+- Doubloons! on a main net
+- DAO on a main net
+- Ocean Marketplace fork deployment
+- DAO council vote
+- DAO treasury
 
-## Credits
+## Shoutouts and Credits
 
 Thanks and shoutouts to:
 
-- SNI
-- Everyone we missed
+- Sovereign Nature Initiative (https://sovereignnature.com/)
+- Everyone in the SNI Winter 2022 Hackathon
+- Ale, Ed, Andrea, and all the brilliant minds we met
+
+Credits: 
+
+- https://www.space4good.com/
+- https://ceven.tech/
+
+![Space4Good Logo](img/dark_logo_transparent.jpg "Space4Good") ![CEVEN Logo](img/CEVEN_Logo_NEG_RGB.png "CEVEN")
+
 
 ------
-
-

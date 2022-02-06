@@ -37,7 +37,7 @@
 
 ## An End-To-End Demo
 
-- [DAO](https://client.aragon.org/#/greensail/)
+- [Demo DAO (Aragon/Rinkeby)](https://client.aragon.org/#/greensail/)
 - [First data collection request](https://github.com/greensailAR/SNIwinterhack/issues/2)
 - [Corresponding bounty](https://gitcoin.co/issue/greensailar/sniwinterhack/2/100027600)
 - [Corresponding DAO vote](https://client.aragon.org/#/greensail/0x71f8045034f0f4a57f46814df7983b4b27339ce6/vote/2/)
